@@ -7,7 +7,7 @@
 
 <div align="center">
   <kbd>
-    <img src="https://telegra.ph/file/5e989f882ab224ee905bd.jpg" href="https://github.com/kaviaann" style="width : 250px; height : 250px">
+    <img src="https://telegra.ph/file/5e989f882ab224ee905bd.jpg" href="https://github.com/LangSkyy" style="width : 250px; height : 250px">
   </kbd>
   <h3>LangSkyy</h3>
   <p>HTML, CSS, Javascript, jQuery, NodeJS</p>
@@ -41,7 +41,7 @@
 
 
 ## ! Attention !
-Eng : This Repository / Package Is On Beta Access And Im Still Making New Scrape, So I Hope For You All Pantience 😋  
+Eng : This repository/Package is in Beta access and I'm still making new strokes, so I hope you all will be patient 😋  
 
 Id : Repository / Package Ini Masih Dalam Akses Beta Dan Ak Masih Membuat Scraper Yang Baru, Jadi Dimohon Kesabarannya Yaa 😋
 
@@ -51,11 +51,11 @@ Id : Repository / Package Ini Masih Dalam Akses Beta Dan Ak Masih Membuat Scrape
 
 
 ## Feature
-Kaviaan Scraper can help you scrape another website so easily ( Without Using Puppeteer, etc ) making it can run on a cloud computing platform.
+LangSkyy Scraper can help you scrape another website so easily ( Without Using Puppeteer, etc ) making it can run on a cloud computing platform.
 Also with simple structure of the scrape response make you easier to understand 😄  
 <br>
 <br>
-Kaviaann Scraper bisa membantu mu scrape website lain dengan sangat mudah ( Tanpa Menggunakan Puppeteer, dll ) membuat ini bisa berjalan dalam suatu panel ( Server ). Juga dengan struktur respon scrape yang simple membuat kamu lebih mudah untuk mengerti 😄
+LangSkyy Scraper bisa membantu mu scrape website lain dengan sangat mudah ( Tanpa Menggunakan Puppeteer, dll ) membuat ini bisa berjalan dalam suatu panel ( Server ). Juga dengan struktur respon scrape yang simple membuat kamu lebih mudah untuk mengerti 😄
 
 
 <br>
